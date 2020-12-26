@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 114.48 36.863"
+   width="146mm"
+   version="1.1"
+   xml:space="preserve"
+   gorn="0"
+   viewBox="0 0 551.81099 396.85041"
+   y="0px"
+   height="105mm"
+   x="0px"
+   id="Ebene_1"
+   sodipodi:docname="breadboard.svg"
+   inkscape:version="1.0.1 (1.0.1+r74)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2697"
+   inkscape:window-height="1191"
+   id="namedview4892"
+   showgrid="false"
+   units="mm"
+   inkscape:zoom="9.5327407"
+   inkscape:cx="481.30318"
+   inkscape:cy="218.3511"
+   inkscape:window-x="72"
+   inkscape:window-y="27"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Ebene_1"
+   inkscape:document-rotation="0"
+   showguides="true"
+   inkscape:guide-bbox="true"><sodipodi:guide
+     position="531.22177,252.50576"
+     orientation="1,0"
+     id="guide431" /><sodipodi:guide
+     position="132.92454,163.63901"
+     orientation="0,-1"
+     id="guide1289" /></sodipodi:namedview>
+    <desc
+   id="desc2">
+        <referenceFile>led_and_key.svg</referenceFile>
+    </desc>
+    <metadata
+   id="metadata98">
+        <rdf:RDF>
+            <cc:Work
+   rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+   id="defs96" />
+    <rect
+   width="519.55084"
+   fill="#0f7391"
+   stroke-width="2.01444"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   gorn="0.3"
+   rx="14.080121"
+   ry="15.675127"
+   y="1.3642153"
+   height="393.40521"
+   stroke="#ac9d93"
+   stroke-opacity="1"
+   x="1.7588797"
+   fill-opacity="1"
+   id="rect2105" />
+    
+    <circle
+   fill="#0f7391"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="0"
+   gorn="0.5"
+   cx="376.42337"
+   cy="23.933434"
+   stroke="#ac9d93"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="ellipse5405" />
+    <g
+   transform="translate(315.52931,0.35588439)"
+   id="g3447">
+        <g
+   id="g3445">
+            <g
+   id="g3443">
+                <g
+   id="g3441">
+                    <g
+   id="g3439">
+                        <g
+   id="g3437">
+                            <g
+   gorn="0.6.0.0.0.0.0.0"
+   id="g5417">
+                                <circle
+   fill="#f1d585"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="7.6822109"
+   gorn="0.6.0.0.0.0.0.0.0"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5407" />
+                                <circle
+   fill="#ffffff"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="5.3727994"
+   gorn="0.6.0.0.0.0.0.0.1"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="path5403" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="translate(-179.35635,0.05966998)"
+   id="g3462">
+        <g
+   id="g3460">
+            <g
+   id="g3458">
+                <g
+   id="g3456">
+                    <g
+   id="g3454">
+                        <g
+   id="g3452">
+                            <g
+   gorn="0.7.0.0.0.0.0.0"
+   id="g5423">
+                                <circle
+   fill="#f1d585"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="7.6822109"
+   gorn="0.7.0.0.0.0.0.0.0"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5419" />
+                                <circle
+   fill="#ffffff"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="5.3727994"
+   gorn="0.7.0.0.0.0.0.0.1"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5421" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="translate(-179.88924,369.08663)"
+   id="g3477">
+        <g
+   id="g3475">
+            <g
+   id="g3473">
+                <g
+   id="g3471">
+                    <g
+   id="g3469">
+                        <g
+   id="g3467">
+                            <g
+   gorn="0.8.0.0.0.0.0.0"
+   id="g5429">
+                                <circle
+   fill="#f1d585"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="7.6822109"
+   gorn="0.8.0.0.0.0.0.0.0"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5425" />
+                                <circle
+   fill="#ffffff"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="5.3727994"
+   gorn="0.8.0.0.0.0.0.0.1"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5427" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="translate(314.0675,369.05561)"
+   id="g3492">
+        <g
+   id="g3490">
+            <g
+   id="g3488">
+                <g
+   id="g3486">
+                    <g
+   id="g3484">
+                        <g
+   id="g3482">
+                            <g
+   gorn="0.9.0.0.0.0.0.0"
+   id="g5435">
+                                <circle
+   fill="#f1d585"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="7.6822109"
+   gorn="0.9.0.0.0.0.0.0.0"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5431" />
+                                <circle
+   fill="#ffffff"
+   stroke-width="0.1"
+   style="opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+   r="5.3727994"
+   gorn="0.9.0.0.0.0.0.0.1"
+   cx="193.6315"
+   cy="13.625514"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="circle5433" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    
+    
+    <g
+   transform="matrix(0,-1.6312696,4.0719153,0,498.36411,34.638569)"
+   id="g3981">
+        <g
+   id="g3979">
+            <g
+   id="g3977">
+                <g
+   id="g3975">
+                    <g
+   id="g3973">
+                        <g
+   id="g3971">
+                            <rect
+   width="36"
+   style="fill:#404040"
+   gorn="0.12.0.0.0.0.0.0"
+   y="5.8853388"
+   height="7.1989999"
+   x="-121.99411"
+   id="rect2194" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,314.06583,-224.49903)"
+   id="g3994">
+        <g
+   id="g3992">
+            <g
+   id="g3990">
+                <g
+   id="g3988">
+                    <g
+   id="g3986">
+                        <g
+   id="g3984">
+                            <rect
+   width="2.7809999"
+   style="fill:#9a916c;fill-opacity:1"
+   gorn="0.13.0.0.0.0.0.0"
+   y="8.0943384"
+   height="2.7820001"
+   x="-119.7841"
+   id="connector4pin" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4007">
+        <g
+   id="g4005">
+            <g
+   id="g4003">
+                <g
+   id="g4001">
+                    <g
+   id="g3999">
+                        <g
+   id="g3997">
+                            <polygon
+   style="fill:#494632;fill-opacity:1"
+   gorn="0.14.0.0.0.0.0.0"
+   points="4.992,2.209 6.017,1.184 1.185,1.184 2.208,2.209 "
+   id="polygon2198" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4020">
+        <g
+   id="g4018">
+            <g
+   id="g4016">
+                <g
+   id="g4014">
+                    <g
+   id="g4012">
+                        <g
+   id="g4010">
+                            <polygon
+   style="fill:#6f684c;fill-opacity:1"
+   gorn="0.15.0.0.0.0.0.0"
+   points="4.992,4.993 6.017,6.016 6.017,1.184 4.992,2.212 "
+   id="polygon2200" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4033">
+        <g
+   id="g4031">
+            <g
+   id="g4029">
+                <g
+   id="g4027">
+                    <g
+   id="g4025">
+                        <g
+   id="g4023">
+                            <polygon
+   style="fill:#c3bea8;fill-opacity:1"
+   gorn="0.16.0.0.0.0.0.0"
+   points="2.208,4.993 1.185,6.016 6.016,6.016 4.991,4.993 "
+   id="polygon2202" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4046">
+        <g
+   id="g4044">
+            <g
+   id="g4042">
+                <g
+   id="g4040">
+                    <g
+   id="g4038">
+                        <g
+   id="g4036">
+                            <polygon
+   style="fill:#56513b;fill-opacity:1"
+   gorn="0.17.0.0.0.0.0.0"
+   points="2.208,2.209 1.183,1.184 1.183,6.016 2.208,4.991 "
+   id="polygon2204" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,314.06583,-224.49903)"
+   id="g4059">
+        <g
+   id="g4057">
+            <g
+   id="g4055">
+                <g
+   id="g4053">
+                    <g
+   id="g4051">
+                        <g
+   id="g4049">
+                            <rect
+   width="2.7809999"
+   style="fill:#9a916c;fill-opacity:1"
+   gorn="0.18.0.0.0.0.0.0"
+   y="8.0943384"
+   height="2.7820001"
+   x="-112.58311"
+   id="connector3pin" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4072">
+        <g
+   id="g4070">
+            <g
+   id="g4068">
+                <g
+   id="g4066">
+                    <g
+   id="g4064">
+                        <g
+   id="g4062">
+                            <polygon
+   style="fill:#494632;fill-opacity:1"
+   gorn="0.19.0.0.0.0.0.0"
+   points="12.191,2.209 13.216,1.184 8.384,1.184 9.408,2.209 "
+   id="polygon2208" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4085">
+        <g
+   id="g4083">
+            <g
+   id="g4081">
+                <g
+   id="g4079">
+                    <g
+   id="g4077">
+                        <g
+   id="g4075">
+                            <polygon
+   style="fill:#6f684c;fill-opacity:1"
+   gorn="0.20.0.0.0.0.0.0"
+   points="12.191,4.993 13.216,6.016 13.216,1.184 12.191,2.212 "
+   id="polygon2210" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4098">
+        <g
+   id="g4096">
+            <g
+   id="g4094">
+                <g
+   id="g4092">
+                    <g
+   id="g4090">
+                        <g
+   id="g4088">
+                            <polygon
+   style="fill:#c3bea8;fill-opacity:1"
+   gorn="0.21.0.0.0.0.0.0"
+   points="9.408,4.993 8.384,6.016 13.215,6.016 12.19,4.993 "
+   id="polygon2212" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4111">
+        <g
+   id="g4109">
+            <g
+   id="g4107">
+                <g
+   id="g4105">
+                    <g
+   id="g4103">
+                        <g
+   id="g4101">
+                            <polygon
+   style="fill:#56513b;fill-opacity:1"
+   gorn="0.22.0.0.0.0.0.0"
+   points="9.408,2.209 8.382,1.184 8.382,6.016 9.408,4.991 "
+   id="polygon2214" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,314.06583,-224.49903)"
+   id="g4124">
+        <g
+   id="g4122">
+            <g
+   id="g4120">
+                <g
+   id="g4118">
+                    <g
+   id="g4116">
+                        <g
+   id="g4114">
+                            <rect
+   width="2.7809999"
+   style="fill:#9a916c;fill-opacity:1"
+   gorn="0.23.0.0.0.0.0.0"
+   y="8.0943384"
+   height="2.7820001"
+   x="-105.38411"
+   id="connector2pin" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4137">
+        <g
+   id="g4135">
+            <g
+   id="g4133">
+                <g
+   id="g4131">
+                    <g
+   id="g4129">
+                        <g
+   id="g4127">
+                            <polygon
+   style="fill:#494632;fill-opacity:1"
+   gorn="0.24.0.0.0.0.0.0"
+   points="19.392,2.209 20.416,1.184 15.584,1.184 16.608,2.209 "
+   id="polygon2218" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4150">
+        <g
+   id="g4148">
+            <g
+   id="g4146">
+                <g
+   id="g4144">
+                    <g
+   id="g4142">
+                        <g
+   id="g4140">
+                            <polygon
+   style="fill:#6f684c;fill-opacity:1"
+   gorn="0.25.0.0.0.0.0.0"
+   points="19.392,4.993 20.416,6.016 20.416,1.184 19.392,2.212 "
+   id="polygon2220" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4163">
+        <g
+   id="g4161">
+            <g
+   id="g4159">
+                <g
+   id="g4157">
+                    <g
+   id="g4155">
+                        <g
+   id="g4153">
+                            <polygon
+   style="fill:#c3bea8;fill-opacity:1"
+   gorn="0.26.0.0.0.0.0.0"
+   points="16.608,4.993 15.584,6.016 20.416,6.016 19.391,4.993 "
+   id="polygon2222" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4176">
+        <g
+   id="g4174">
+            <g
+   id="g4172">
+                <g
+   id="g4170">
+                    <g
+   id="g4168">
+                        <g
+   id="g4166">
+                            <polygon
+   style="fill:#56513b;fill-opacity:1"
+   gorn="0.27.0.0.0.0.0.0"
+   points="16.608,2.209 15.583,1.184 15.583,6.016 16.608,4.991 "
+   id="polygon2224" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,314.06583,-224.49903)"
+   id="g4189">
+        <g
+   id="g4187">
+            <g
+   id="g4185">
+                <g
+   id="g4183">
+                    <g
+   id="g4181">
+                        <g
+   id="g4179">
+                            <rect
+   width="2.7809999"
+   style="fill:#9a916c;fill-opacity:1"
+   gorn="0.28.0.0.0.0.0.0"
+   y="8.0943384"
+   height="2.7820001"
+   x="-98.183105"
+   id="connector6pin" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4202">
+        <g
+   id="g4200">
+            <g
+   id="g4198">
+                <g
+   id="g4196">
+                    <g
+   id="g4194">
+                        <g
+   id="g4192">
+                            <polygon
+   style="fill:#494632;fill-opacity:1"
+   gorn="0.29.0.0.0.0.0.0"
+   points="26.592,2.209 27.617,1.184 22.785,1.184 23.809,2.209 "
+   id="polygon2228" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4215">
+        <g
+   id="g4213">
+            <g
+   id="g4211">
+                <g
+   id="g4209">
+                    <g
+   id="g4207">
+                        <g
+   id="g4205">
+                            <polygon
+   style="fill:#6f684c;fill-opacity:1"
+   gorn="0.30.0.0.0.0.0.0"
+   points="26.592,4.993 27.617,6.016 27.617,1.184 26.592,2.212 "
+   id="polygon2230" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4228">
+        <g
+   id="g4226">
+            <g
+   id="g4224">
+                <g
+   id="g4222">
+                    <g
+   id="g4220">
+                        <g
+   id="g4218">
+                            <polygon
+   style="fill:#c3bea8;fill-opacity:1"
+   gorn="0.31.0.0.0.0.0.0"
+   points="23.809,4.993 22.785,6.016 27.615,6.016 26.59,4.993 "
+   id="polygon2232" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4241">
+        <g
+   id="g4239">
+            <g
+   id="g4237">
+                <g
+   id="g4235">
+                    <g
+   id="g4233">
+                        <g
+   id="g4231">
+                            <polygon
+   style="fill:#56513b;fill-opacity:1"
+   gorn="0.32.0.0.0.0.0.0"
+   points="23.809,2.209 22.782,1.184 22.782,6.016 23.809,4.991 "
+   id="polygon2234" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,314.06583,-224.49903)"
+   id="g4254">
+        <g
+   id="g4252">
+            <g
+   id="g4250">
+                <g
+   id="g4248">
+                    <g
+   id="g4246">
+                        <g
+   id="g4244">
+                            <rect
+   width="2.7809999"
+   fill="#9a916c"
+   gorn="0.33.0.0.0.0.0.0"
+   y="8.0943384"
+   height="2.7820001"
+   stroke="none"
+   x="-90.984108"
+   fill-opacity="1"
+   id="connector5pin" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4267">
+        <g
+   id="g4265">
+            <g
+   id="g4263">
+                <g
+   id="g4261">
+                    <g
+   id="g4259">
+                        <g
+   id="g4257">
+                            <polygon
+   style="fill:#494632;fill-opacity:1"
+   gorn="0.34.0.0.0.0.0.0"
+   points="33.791,2.209 34.816,1.184 29.984,1.184 31.008,2.209 "
+   id="polygon2238" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4280">
+        <g
+   id="g4278">
+            <g
+   id="g4276">
+                <g
+   id="g4274">
+                    <g
+   id="g4272">
+                        <g
+   id="g4270">
+                            <polygon
+   style="fill:#6f684c;fill-opacity:1"
+   gorn="0.35.0.0.0.0.0.0"
+   points="33.791,4.993 34.816,6.016 34.816,1.184 33.791,2.212 "
+   id="polygon2240" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4293">
+        <g
+   id="g4291">
+            <g
+   id="g4289">
+                <g
+   id="g4287">
+                    <g
+   id="g4285">
+                        <g
+   id="g4283">
+                            <polygon
+   style="fill:#c3bea8;fill-opacity:1"
+   gorn="0.36.0.0.0.0.0.0"
+   points="31.008,4.993 29.984,6.016 34.815,6.016 33.791,4.993 "
+   id="polygon2242" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   transform="rotate(-90,378.00556,-166.44465)"
+   id="g4306">
+        <g
+   id="g4304">
+            <g
+   id="g4302">
+                <g
+   id="g4300">
+                    <g
+   id="g4298">
+                        <g
+   id="g4296">
+                            <polygon
+   style="fill:#56513b;fill-opacity:1"
+   gorn="0.37.0.0.0.0.0.0"
+   points="31.008,2.209 29.982,1.184 29.982,6.016 31.008,4.991 "
+   id="polygon2244" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <g
+   transform="rotate(90,-14.05031,47.105257)"
+   id="g4889">
+        <g
+   id="g4887"
+   transform="rotate(180,77.72421,-264.2029)">
+            <g
+   id="g4885"
+   transform="translate(8.4362062,-33.255352)">
+                <g
+   id="g4883">
+                    <g
+   id="g4881">
+                        <g
+   id="g4879">
+                            <g
+   fill="#000000"
+   stroke-width="1"
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter"
+   gorn="0.74.0.0.0.0.0.0"
+   font-size="17.3333px"
+   stroke="none"
+   stroke-opacity="1"
+   fill-opacity="1"
+   id="text1704">
+                                <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9"
+   gorn="0.74.0.0.0.0.0.0.0"
+   y="-12.201114"
+   x="-137.45139"
+   id="tspan1702"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan5807">5.65inch e-Paper Module(F)</tspan></text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+<g
+   transform="rotate(-90,317.77246,-220.89775)"
+   id="g3994-0"><g
+     id="g3992-5"><g
+       id="g3990-5"><g
+         id="g3988-2"><g
+           id="g3986-9"><g
+             id="g3984-0"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-2" /></g></g></g></g></g></g><g
+   transform="rotate(-90,381.71219,-162.84337)"
+   id="g4007-8"><g
+     id="g4005-3"><g
+       id="g4003-8"><g
+         id="g4001-0"><g
+           id="g3999-4"><g
+             id="g3997-0"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="6.017,1.184 1.185,1.184 2.208,2.209 4.992,2.209 "
+               id="polygon2198-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,381.71219,-162.84337)"
+   id="g4020-1"><g
+     id="g4018-9"><g
+       id="g4016-6"><g
+         id="g4014-2"><g
+           id="g4012-5"><g
+             id="g4010-4"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="6.017,6.016 6.017,1.184 4.992,2.212 4.992,4.993 "
+               id="polygon2200-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,381.71219,-162.84337)"
+   id="g4033-9"><g
+     id="g4031-9"><g
+       id="g4029-3"><g
+         id="g4027-6"><g
+           id="g4025-0"><g
+             id="g4023-5"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="1.185,6.016 6.016,6.016 4.991,4.993 2.208,4.993 "
+               id="polygon2202-0" /></g></g></g></g></g></g><g
+   transform="rotate(-90,381.71219,-162.84337)"
+   id="g4046-2"><g
+     id="g4044-9"><g
+       id="g4042-4"><g
+         id="g4040-3"><g
+           id="g4038-5"><g
+             id="g4036-1"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="1.183,1.184 1.183,6.016 2.208,4.991 2.208,2.209 "
+               id="polygon2204-7" /></g></g></g></g></g></g><g
+   transform="rotate(-90,321.34059,-217.37905)"
+   id="g3994-4"><g
+     id="g3992-3"><g
+       id="g3990-1"><g
+         id="g3988-4"><g
+           id="g3986-6"><g
+             id="g3984-9"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,385.28032,-159.32467)"
+   id="g4007-2"><g
+     id="g4005-2"><g
+       id="g4003-6"><g
+         id="g4001-4"><g
+           id="g3999-1"><g
+             id="g3997-2"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="6.017,1.184 1.185,1.184 2.208,2.209 4.992,2.209 "
+               id="polygon2198-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,385.28032,-159.32467)"
+   id="g4020-8"><g
+     id="g4018-92"><g
+       id="g4016-8"><g
+         id="g4014-8"><g
+           id="g4012-8"><g
+             id="g4010-6"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="6.017,6.016 6.017,1.184 4.992,2.212 4.992,4.993 "
+               id="polygon2200-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,385.28032,-159.32467)"
+   id="g4033-3"><g
+     id="g4031-8"><g
+       id="g4029-33"><g
+         id="g4027-3"><g
+           id="g4025-8"><g
+             id="g4023-0"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="1.185,6.016 6.016,6.016 4.991,4.993 2.208,4.993 "
+               id="polygon2202-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,385.28032,-159.32467)"
+   id="g4046-7"><g
+     id="g4044-6"><g
+       id="g4042-8"><g
+         id="g4040-9"><g
+           id="g4038-0"><g
+             id="g4036-6"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="1.183,1.184 1.183,6.016 2.208,4.991 2.208,2.209 "
+               id="polygon2204-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,324.93322,-213.80692)"
+   id="g3994-9"><g
+     id="g3992-0"><g
+       id="g3990-3"><g
+         id="g3988-3"><g
+           id="g3986-3"><g
+             id="g3984-7"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-3" /></g></g></g></g></g></g><g
+   transform="rotate(-90,388.87294,-155.75253)"
+   id="g4007-26"><g
+     id="g4005-5"><g
+       id="g4003-2"><g
+         id="g4001-6"><g
+           id="g3999-5"><g
+             id="g3997-8"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="6.017,1.184 1.185,1.184 2.208,2.209 4.992,2.209 "
+               id="polygon2198-7" /></g></g></g></g></g></g><g
+   transform="rotate(-90,388.87294,-155.75253)"
+   id="g4020-9"><g
+     id="g4018-6"><g
+       id="g4016-0"><g
+         id="g4014-4"><g
+           id="g4012-1"><g
+             id="g4010-0"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="6.017,6.016 6.017,1.184 4.992,2.212 4.992,4.993 "
+               id="polygon2200-48" /></g></g></g></g></g></g><g
+   transform="rotate(-90,388.87294,-155.75253)"
+   id="g4033-7"><g
+     id="g4031-0"><g
+       id="g4029-8"><g
+         id="g4027-62"><g
+           id="g4025-4"><g
+             id="g4023-7"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="1.185,6.016 6.016,6.016 4.991,4.993 2.208,4.993 "
+               id="polygon2202-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,388.87294,-155.75253)"
+   id="g4046-3"><g
+     id="g4044-92"><g
+       id="g4042-83"><g
+         id="g4040-0"><g
+           id="g4038-1"><g
+             id="g4036-7"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="1.183,1.184 1.183,6.016 2.208,4.991 2.208,2.209 "
+               id="polygon2204-89" /></g></g></g></g></g></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="521.93756"
+   y="182.06996"
+   id="text6429"><tspan
+     sodipodi:role="line"
+     id="tspan6427"
+     x="521.93756"
+     y="182.06996"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">BUSY</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="521.91101"
+   y="189.70766"
+   id="text6429-7"><tspan
+     sodipodi:role="line"
+     id="tspan6427-3"
+     x="521.91101"
+     y="189.70766"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">RST</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.36401"
+   y="197.34215"
+   id="text6429-6"><tspan
+     sodipodi:role="line"
+     id="tspan6427-5"
+     x="522.36401"
+     y="197.34215"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">DC</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.42572"
+   y="204.73108"
+   id="text6429-63"><tspan
+     sodipodi:role="line"
+     id="tspan6427-9"
+     x="522.42572"
+     y="204.73108"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">CS</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.48297"
+   y="211.82954"
+   id="text6429-4"><tspan
+     sodipodi:role="line"
+     id="tspan6427-8"
+     x="522.48297"
+     y="211.82954"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">CLK</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.48315"
+   y="219.45705"
+   id="text6429-1"><tspan
+     sodipodi:role="line"
+     id="tspan6427-2"
+     x="522.48315"
+     y="219.45705"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">DIN</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.64282"
+   y="233.18527"
+   id="text6429-9"><tspan
+     sodipodi:role="line"
+     id="tspan6427-39"
+     x="522.64282"
+     y="233.18527"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">VCC</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+   x="522.52289"
+   y="226.5817"
+   id="text6429-0"><tspan
+     sodipodi:role="line"
+     id="tspan6427-88"
+     x="522.52289"
+     y="226.5817"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">GND</tspan></text><rect
+   style="fill:#e6e6e6"
+   id="rect433"
+   width="470.24249"
+   height="379.80939"
+   x="27.651266"
+   y="8.1941385"
+   rx="4.2725863"
+   ry="4.6541953" /><rect
+   style="fill:#ffffff;stroke-width:0.985804"
+   id="rect435"
+   width="425.33771"
+   height="17.314272"
+   x="52.26046"
+   y="370.1962"
+   rx="4.152142"
+   ry="4.6542001" /><g
+   transform="rotate(-90,44.777261,44.588952)"
+   id="g3994-96"><g
+     id="g3992-38"><g
+       id="g3990-56"><g
+         id="g3988-1"><g
+           id="g3986-1"><g
+             id="g3984-5"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4007-84"><g
+     id="g4005-8"><g
+       id="g4003-1"><g
+         id="g4001-03"><g
+           id="g3999-0"><g
+             id="g3997-4"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="2.208,2.209 4.992,2.209 6.017,1.184 1.185,1.184 "
+               id="polygon2198-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4020-4"><g
+     id="g4018-4"><g
+       id="g4016-7"><g
+         id="g4014-6"><g
+           id="g4012-3"><g
+             id="g4010-1"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="4.992,2.212 4.992,4.993 6.017,6.016 6.017,1.184 "
+               id="polygon2200-7" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4033-5"><g
+     id="g4031-96"><g
+       id="g4029-2"><g
+         id="g4027-1"><g
+           id="g4025-7"><g
+             id="g4023-8"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="4.991,4.993 2.208,4.993 1.185,6.016 6.016,6.016 "
+               id="polygon2202-5" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4046-74"><g
+     id="g4044-1"><g
+       id="g4042-85"><g
+         id="g4040-97"><g
+           id="g4038-53"><g
+             id="g4036-8"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="2.208,4.991 2.208,2.209 1.183,1.184 1.183,6.016 "
+               id="polygon2204-83" /></g></g></g></g></g></g><g
+   transform="rotate(-90,44.777261,44.588952)"
+   id="g4059-1"><g
+     id="g4057-8"><g
+       id="g4055-9"><g
+         id="g4053-6"><g
+           id="g4051-4"><g
+             id="g4049-3"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.18.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-112.58311"
+               id="connector3pin-3" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4072-3"><g
+     id="g4070-8"><g
+       id="g4068-6"><g
+         id="g4066-0"><g
+           id="g4064-4"><g
+             id="g4062-8"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.19.0.0.0.0.0.0"
+               points="9.408,2.209 12.191,2.209 13.216,1.184 8.384,1.184 "
+               id="polygon2208-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4085-8"><g
+     id="g4083-9"><g
+       id="g4081-7"><g
+         id="g4079-7"><g
+           id="g4077-6"><g
+             id="g4075-4"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.20.0.0.0.0.0.0"
+               points="12.191,2.212 12.191,4.993 13.216,6.016 13.216,1.184 "
+               id="polygon2210-3" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4098-0"><g
+     id="g4096-3"><g
+       id="g4094-0"><g
+         id="g4092-9"><g
+           id="g4090-2"><g
+             id="g4088-5"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.21.0.0.0.0.0.0"
+               points="12.19,4.993 9.408,4.993 8.384,6.016 13.215,6.016 "
+               id="polygon2212-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4111-0"><g
+     id="g4109-5"><g
+       id="g4107-9"><g
+         id="g4105-4"><g
+           id="g4103-6"><g
+             id="g4101-9"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.22.0.0.0.0.0.0"
+               points="9.408,4.991 9.408,2.209 8.382,1.184 8.382,6.016 "
+               id="polygon2214-2" /></g></g></g></g></g></g><g
+   transform="rotate(-90,44.777261,44.588952)"
+   id="g4124-2"><g
+     id="g4122-4"><g
+       id="g4120-7"><g
+         id="g4118-7"><g
+           id="g4116-5"><g
+             id="g4114-4"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.23.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-105.38411"
+               id="connector2pin-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4137-1"><g
+     id="g4135-2"><g
+       id="g4133-8"><g
+         id="g4131-9"><g
+           id="g4129-3"><g
+             id="g4127-6"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.24.0.0.0.0.0.0"
+               points="16.608,2.209 19.392,2.209 20.416,1.184 15.584,1.184 "
+               id="polygon2218-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4150-0"><g
+     id="g4148-2"><g
+       id="g4146-1"><g
+         id="g4144-0"><g
+           id="g4142-5"><g
+             id="g4140-1"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.25.0.0.0.0.0.0"
+               points="19.392,2.212 19.392,4.993 20.416,6.016 20.416,1.184 "
+               id="polygon2220-1" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4163-0"><g
+     id="g4161-8"><g
+       id="g4159-5"><g
+         id="g4157-0"><g
+           id="g4155-6"><g
+             id="g4153-4"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.26.0.0.0.0.0.0"
+               points="19.391,4.993 16.608,4.993 15.584,6.016 20.416,6.016 "
+               id="polygon2222-6" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4176-2"><g
+     id="g4174-5"><g
+       id="g4172-8"><g
+         id="g4170-6"><g
+           id="g4168-2"><g
+             id="g4166-8"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.27.0.0.0.0.0.0"
+               points="16.608,4.991 16.608,2.209 15.583,1.184 15.583,6.016 "
+               id="polygon2224-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,44.777261,44.588952)"
+   id="g4189-7"><g
+     id="g4187-2"><g
+       id="g4185-4"><g
+         id="g4183-0"><g
+           id="g4181-6"><g
+             id="g4179-2"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.28.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-98.183105"
+               id="connector6pin-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4202-9"><g
+     id="g4200-0"><g
+       id="g4198-8"><g
+         id="g4196-1"><g
+           id="g4194-3"><g
+             id="g4192-1"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.29.0.0.0.0.0.0"
+               points="23.809,2.209 26.592,2.209 27.617,1.184 22.785,1.184 "
+               id="polygon2228-1" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4215-0"><g
+     id="g4213-3"><g
+       id="g4211-4"><g
+         id="g4209-0"><g
+           id="g4207-3"><g
+             id="g4205-9"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.30.0.0.0.0.0.0"
+               points="26.592,2.212 26.592,4.993 27.617,6.016 27.617,1.184 "
+               id="polygon2230-1" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4228-9"><g
+     id="g4226-6"><g
+       id="g4224-9"><g
+         id="g4222-3"><g
+           id="g4220-3"><g
+             id="g4218-8"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.31.0.0.0.0.0.0"
+               points="26.59,4.993 23.809,4.993 22.785,6.016 27.615,6.016 "
+               id="polygon2232-0" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4241-5"><g
+     id="g4239-6"><g
+       id="g4237-6"><g
+         id="g4235-4"><g
+           id="g4233-0"><g
+             id="g4231-0"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.32.0.0.0.0.0.0"
+               points="23.809,4.991 23.809,2.209 22.782,1.184 22.782,6.016 "
+               id="polygon2234-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,44.777261,44.588952)"
+   id="g4254-6"><g
+     id="g4252-2"><g
+       id="g4250-6"><g
+         id="g4248-7"><g
+           id="g4246-5"><g
+             id="g4244-6"><rect
+               width="2.7809999"
+               fill="#9a916c"
+               gorn="0.33.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               stroke="none"
+               x="-90.984108"
+               fill-opacity="1"
+               id="connector5pin-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4267-8"><g
+     id="g4265-7"><g
+       id="g4263-2"><g
+         id="g4261-8"><g
+           id="g4259-2"><g
+             id="g4257-9"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.34.0.0.0.0.0.0"
+               points="31.008,2.209 33.791,2.209 34.816,1.184 29.984,1.184 "
+               id="polygon2238-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4280-6"><g
+     id="g4278-0"><g
+       id="g4276-2"><g
+         id="g4274-7"><g
+           id="g4272-6"><g
+             id="g4270-1"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.35.0.0.0.0.0.0"
+               points="33.791,2.212 33.791,4.993 34.816,6.016 34.816,1.184 "
+               id="polygon2240-3" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4293-2"><g
+     id="g4291-1"><g
+       id="g4289-5"><g
+         id="g4287-9"><g
+           id="g4285-9"><g
+             id="g4283-1"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.36.0.0.0.0.0.0"
+               points="33.791,4.993 31.008,4.993 29.984,6.016 34.815,6.016 "
+               id="polygon2242-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,108.71699,102.64333)"
+   id="g4306-9"><g
+     id="g4304-1"><g
+       id="g4302-0"><g
+         id="g4300-7"><g
+           id="g4298-5"><g
+             id="g4296-8"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.37.0.0.0.0.0.0"
+               points="31.008,4.991 31.008,2.209 29.982,1.184 29.982,6.016 "
+               id="polygon2244-7" /></g></g></g></g></g></g><g
+   transform="rotate(-90,48.483891,48.190232)"
+   id="g3994-0-0"><g
+     id="g3992-5-4"><g
+       id="g3990-5-8"><g
+         id="g3988-2-0"><g
+           id="g3986-9-4"><g
+             id="g3984-0-2"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-2-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,112.42362,106.24461)"
+   id="g4007-8-6"><g
+     id="g4005-3-1"><g
+       id="g4003-8-0"><g
+         id="g4001-0-4"><g
+           id="g3999-4-2"><g
+             id="g3997-0-2"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="4.992,2.209 6.017,1.184 1.185,1.184 2.208,2.209 "
+               id="polygon2198-9-2" /></g></g></g></g></g></g><g
+   transform="rotate(-90,112.42362,106.24461)"
+   id="g4020-1-0"><g
+     id="g4018-9-5"><g
+       id="g4016-6-5"><g
+         id="g4014-2-2"><g
+           id="g4012-5-9"><g
+             id="g4010-4-0"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="4.992,4.993 6.017,6.016 6.017,1.184 4.992,2.212 "
+               id="polygon2200-4-2" /></g></g></g></g></g></g><g
+   transform="rotate(-90,112.42362,106.24461)"
+   id="g4033-9-8"><g
+     id="g4031-9-3"><g
+       id="g4029-3-8"><g
+         id="g4027-6-0"><g
+           id="g4025-0-4"><g
+             id="g4023-5-0"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="2.208,4.993 1.185,6.016 6.016,6.016 4.991,4.993 "
+               id="polygon2202-0-9" /></g></g></g></g></g></g><g
+   transform="rotate(-90,112.42362,106.24461)"
+   id="g4046-2-1"><g
+     id="g4044-9-9"><g
+       id="g4042-4-6"><g
+         id="g4040-3-2"><g
+           id="g4038-5-5"><g
+             id="g4036-1-4"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="2.208,2.209 1.183,1.184 1.183,6.016 2.208,4.991 "
+               id="polygon2204-7-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,52.052021,51.708932)"
+   id="g3994-4-9"><g
+     id="g3992-3-9"><g
+       id="g3990-1-3"><g
+         id="g3988-4-6"><g
+           id="g3986-6-0"><g
+             id="g3984-9-5"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-4-0" /></g></g></g></g></g></g><g
+   transform="rotate(-90,115.99175,109.76331)"
+   id="g4007-2-2"><g
+     id="g4005-2-9"><g
+       id="g4003-6-4"><g
+         id="g4001-4-3"><g
+           id="g3999-1-5"><g
+             id="g3997-2-1"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="4.992,2.209 6.017,1.184 1.185,1.184 2.208,2.209 "
+               id="polygon2198-8-7" /></g></g></g></g></g></g><g
+   transform="rotate(-90,115.99175,109.76331)"
+   id="g4020-8-4"><g
+     id="g4018-92-3"><g
+       id="g4016-8-1"><g
+         id="g4014-8-4"><g
+           id="g4012-8-6"><g
+             id="g4010-6-9"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="4.992,4.993 6.017,6.016 6.017,1.184 4.992,2.212 "
+               id="polygon2200-8-4" /></g></g></g></g></g></g><g
+   transform="rotate(-90,115.99175,109.76331)"
+   id="g4033-3-2"><g
+     id="g4031-8-2"><g
+       id="g4029-33-6"><g
+         id="g4027-3-4"><g
+           id="g4025-8-1"><g
+             id="g4023-0-2"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="2.208,4.993 1.185,6.016 6.016,6.016 4.991,4.993 "
+               id="polygon2202-4-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,115.99175,109.76331)"
+   id="g4046-7-8"><g
+     id="g4044-6-9"><g
+       id="g4042-8-2"><g
+         id="g4040-9-8"><g
+           id="g4038-0-8"><g
+             id="g4036-6-8"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="2.208,2.209 1.183,1.184 1.183,6.016 2.208,4.991 "
+               id="polygon2204-8-6" /></g></g></g></g></g></g><g
+   transform="rotate(-90,55.644651,55.281062)"
+   id="g3994-9-8"><g
+     id="g3992-0-3"><g
+       id="g3990-3-8"><g
+         id="g3988-3-3"><g
+           id="g3986-3-3"><g
+             id="g3984-7-3"><rect
+               width="2.7809999"
+               style="fill:#9a916c;fill-opacity:1"
+               gorn="0.13.0.0.0.0.0.0"
+               y="8.0943384"
+               height="2.7820001"
+               x="-119.7841"
+               id="connector4pin-3-8" /></g></g></g></g></g></g><g
+   transform="rotate(-90,119.58437,113.33546)"
+   id="g4007-26-0"><g
+     id="g4005-5-4"><g
+       id="g4003-2-7"><g
+         id="g4001-6-6"><g
+           id="g3999-5-8"><g
+             id="g3997-8-9"><polygon
+               style="fill:#494632;fill-opacity:1"
+               gorn="0.14.0.0.0.0.0.0"
+               points="4.992,2.209 6.017,1.184 1.185,1.184 2.208,2.209 "
+               id="polygon2198-7-0" /></g></g></g></g></g></g><g
+   transform="rotate(-90,119.58437,113.33546)"
+   id="g4020-9-6"><g
+     id="g4018-6-8"><g
+       id="g4016-0-7"><g
+         id="g4014-4-9"><g
+           id="g4012-1-0"><g
+             id="g4010-0-3"><polygon
+               style="fill:#6f684c;fill-opacity:1"
+               gorn="0.15.0.0.0.0.0.0"
+               points="4.992,4.993 6.017,6.016 6.017,1.184 4.992,2.212 "
+               id="polygon2200-48-3" /></g></g></g></g></g></g><g
+   transform="rotate(-90,119.58437,113.33546)"
+   id="g4033-7-3"><g
+     id="g4031-0-7"><g
+       id="g4029-8-3"><g
+         id="g4027-62-2"><g
+           id="g4025-4-6"><g
+             id="g4023-7-5"><polygon
+               style="fill:#c3bea8;fill-opacity:1"
+               gorn="0.16.0.0.0.0.0.0"
+               points="2.208,4.993 1.185,6.016 6.016,6.016 4.991,4.993 "
+               id="polygon2202-9-2" /></g></g></g></g></g></g><g
+   transform="rotate(-90,119.58437,113.33546)"
+   id="g4046-3-6"><g
+     id="g4044-92-5"><g
+       id="g4042-83-8"><g
+         id="g4040-0-7"><g
+           id="g4038-1-9"><g
+             id="g4036-7-6"><polygon
+               style="fill:#56513b;fill-opacity:1"
+               gorn="0.17.0.0.0.0.0.0"
+               points="2.208,2.209 1.183,1.184 1.183,6.016 2.208,4.991 "
+               id="polygon2204-89-0" /></g></g></g></g></g></g></svg>
