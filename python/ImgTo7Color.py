@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 
 """
@@ -37,7 +36,7 @@ class ImgTo7Color:
     def resize(self, image):
         return image.resize((self.WIDTH, self.HEIGHT), Image.ANTIALIAS)
 
-    def quantizetopalette(self, image, palette, dither=False):
+    def quantizetopalette(self, image, dither=False):
         """Convert an RGB or L mode image to use a given P image's palette.
            from https://stackoverflow.com/questions/29433243/convert-image-to-specific-palette-using-pil-without-dithering/29438149
         """
@@ -45,14 +44,14 @@ class ImgTo7Color:
         image.load()
 
         # use palette from reference image
-        palette.load()
-        if palette.mode != "P":
+        self.palimage.load()
+        if self.palimage.mode != "P":
             raise ValueError("bad mode for palette image")
         if image.mode != "RGB" and image.mode != "L":
             raise ValueError(
                 "only RGB or L mode images can be quantized to a palette"
             )
-        im = image.im.convert("P", 1 if dither else 0, palette.im)
+        im = image.im.convert("P", 1 if dither else 0, self.palimage.im)
         # the 0 above means turn OFF dithering
 
         # Later versions of Pillow (4.x) rename _makeself to _new
@@ -61,14 +60,12 @@ class ImgTo7Color:
         except AttributeError:
             return image._makeself(im)
 
-    def convert(self, image_path, dither=True):
-        image = Image.open(image_path).convert("RGB")
+    def convert_img(self, image, dither=True):
         image = self.crop_x(image)
         image = self.resize(image)
-        image = self.quantizetopalette(image, self.palimage, dither)
+        image = self.quantizetopalette(image, dither)
         return image
 
-if __name__ == '__main__':
-    conv = ImgTo7Color()
-    image = conv.convert("falcon9_full.jpg")
-    image.show()
+    def convert(self, image_path, dither=True):
+        image = Image.open(image_path).convert("RGB")
+        return self.convert_img(image, dither)

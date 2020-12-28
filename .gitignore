@@ -7,3 +7,4 @@
 /.vscode/
 /32color.code-workspace
 /32color.iml
+__pycache__/
